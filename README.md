@@ -28,7 +28,7 @@ npm install styled-components
 npm install --save @types/styled-components
 ```
 
-<p><strong>Para rodar o projeto utilize o comando:</strong></p>
+<p><strong>Para rodar o projeto utilize o comando: (Abra o terminal para a pasta do projeto)</strong></p>
 
 ```
 npm run dev
