@@ -9,7 +9,7 @@ tendo acesso a sua nota e ao seus acertos e erros.</p>
 
 ## Como rodar este projeto?
 
-<h1>Acesse este link: https://suricato.vercel.app</h1>
+<p><strong>Acesse este link: https://suricato.vercel.app</strong></p>
 
 <p>Clone este repositório em computador utilizando o comando:</p>
 
